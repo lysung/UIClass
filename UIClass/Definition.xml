@@ -1,0 +1,14 @@
+<Shapes xmlns="http://www.evolus.vn/Namespace/Pencil"  
+        xmlns:p="http://www.evolus.vn/Namespace/Pencil"  
+        xmlns:svg="http://www.w3.org/2000/svg"  
+        xmlns:xlink="http://www.w3.org/1999/xlink"  
+  
+        id="UIClass"  
+        displayName="UIClass"  
+        description="a collection for UI and Class"  
+        author="ung8023"  
+        url="https://github.com/ung8023/UIClass">  
+          
+        <!-- Your shapes go here -->  
+          
+</Shapes> 
