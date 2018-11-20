@@ -12,7 +12,7 @@
 6. Switch
 7. Toolbar
 9. Text
-10 Progress
-11 提示
-12 列表
-13 卡片
+10. Progress
+11. 提示
+12. 列表
+13. 卡片
